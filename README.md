@@ -1,8 +1,6 @@
 # kidsGame-phaserJS
 Web based game with story 
 
-## By William1099
-
 ## Preview 1
 
 ![img](https://i.imgur.com/lq59fER.jpg)
